@@ -102,7 +102,7 @@ public class StringMethods {
 //        System.out.println(words[6]);
 //        System.out.println(words[7]);
 //        System.out.println("12. Split: " + words[0]);
-
+//
 //        for (int i = 0; i <= 7; i++) {
 //            System.out.println(words[i]);
 
@@ -111,13 +111,14 @@ public class StringMethods {
 
             //  Find length of String
             System.out.println("12.1 Length of String: " + str2.length());
-            System.out.println("12.2 Length/number of words: " +words2.length);
+            System.out.println("12.2 Length/number of words: " + words2.length);
 
-//          12.3 Split:
+//            12.3 Split:
             for (int i1 = 0; i1 < words2.length; i1++) {
                 System.out.println(words2[i1]);
             }
         }
     }
+
 
 
